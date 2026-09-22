@@ -1,6 +1,6 @@
 {
   "name": "@hellacardgames/beggar-my-neighbor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A TypeScript library implementing the Beggar My Neighbor card game.",
   "type": "module",
   "license": "MIT",
